@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948836BE-151E-4313-96D5-633900811C27}|Juego de roles 19-1-2024.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948836BE-151E-4313-96D5-633900811C27}|Juego de roles 19-1-2024.csproj|solutionrelative:guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948836BE-151E-4313-96D5-633900811C27}|Juego de roles 19-1-2024.csproj|c:\\users\\pc\\documents\\trabajos de gama\\primeros ejercicios\\juego de roles 19-1-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948836BE-151E-4313-96D5-633900811C27}|Juego de roles 19-1-2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948836BE-151E-4313-96D5-633900811C27}|Juego de roles 19-1-2024.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948836BE-151E-4313-96D5-633900811C27}|Juego de roles 19-1-2024.csproj|solutionrelative:mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948836BE-151E-4313-96D5-633900811C27}|Juego de roles 19-1-2024.csproj|C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948836BE-151E-4313-96D5-633900811C27}|Juego de roles 19-1-2024.csproj|solutionrelative:personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mago.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\Mago.cs",
+              "RelativeDocumentMoniker": "Mago.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\Mago.cs",
+              "RelativeToolTip": "Mago.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:14:54.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guerrero.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\Guerrero.cs",
+              "RelativeDocumentMoniker": "Guerrero.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\Guerrero.cs",
+              "RelativeToolTip": "Guerrero.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:14:54.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:14:54.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\Personaje.cs",
+              "RelativeDocumentMoniker": "Personaje.cs",
+              "ToolTip": "C:\\Users\\pc\\Documents\\Trabajos de gama\\PRIMEROS EJERCICIOS\\Juego de roles 19-1-2024\\Personaje.cs",
+              "RelativeToolTip": "Personaje.cs",
+              "ViewState": "AQIAAAcAAACAQns9O9wOwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:14:54.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
